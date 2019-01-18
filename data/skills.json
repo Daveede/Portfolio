@@ -1,9 +1,10 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Sketch" : "90",
-		"Adobe XD" : "80",
-		"Illustrator" : "65",
-		"Photoshop" : "97"
+		"Photoshop" : "90",
+		"Illustrator" : "80",
+		"Indesign" : "65",
+		"Premiere" : "40",
+		"Web Design" : "40"
 	}
 }
