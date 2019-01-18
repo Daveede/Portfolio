@@ -1,0 +1,20 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "April 1997",
+			"company" : "Me",
+			"description" : "Born in 1997, I started playing videogames with my brother as soon as 4 years old, got hooked immediatly."
+		},
+		{
+			"timeperiod" : "Sept 2011 - July 2018",
+			"company" : "ITIS OTHOCA",
+			"description" : "Decided to enroll in an IT focused High School where I developed a passion for Graphic, web & UI Design. I graduated in July 2018."
+		},
+		{
+			"timeperiod" : "Sept 2011 - Present",
+			"company" : "IED, Media Design",
+			"description" : "Following my passion for Design I enrolled at IED, where I'm currently frequenting the Media Design course."
+		}
+	]
+}
