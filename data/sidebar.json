@@ -2,5 +2,7 @@
 	"title" : "Ciao, i'm",
 	"highlightedText" : "Davide",
 	"description" : "Graphic designer, based in Sardinia, Italy",
-	"displayPicture" : "Portfolio/resources/_gen/images/sim.jpg⁩"
+	"displayPicture" : "
+        Portfolio/resources/_gen/images/sim.jpg
+      "
 }
