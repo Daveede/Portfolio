@@ -1,5 +1,5 @@
 
-baseURL = "https://cabitza.com"
+baseURL = "http://cabitza.com"
 languageCode = "en-us"
 title = "Davide"
 theme = "uilite"
