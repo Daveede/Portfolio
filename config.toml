@@ -1,5 +1,5 @@
 
-baseURL = "inspiring-albattani-c3649b.netlify.com"
+baseURL = "https://demo.uicard.io/hugo-uilite-free/"
 languageCode = "en-us"
 title = "Davide"
 theme = "uilite"
